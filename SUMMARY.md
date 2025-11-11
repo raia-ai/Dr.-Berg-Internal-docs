@@ -1368,3 +1368,7 @@
   * [How to Process a Refund](3.0-internal-operational-procedures-1/how-to-process-a-refund.md)
   * [Quality Checklist: Before Sending Responses](3.0-internal-operational-procedures-1/quality-checklist-before-sending-responses.md)
   * [Response Templates for Common Scenarios](3.0-internal-operational-procedures-1/response-templates-for-common-scenarios.md)
+* [1.0-Standard-Operating-Procedures](1.0-standard-operating-procedures-1/README.md)
+  * [Additional-Qs](1.0-standard-operating-procedures-1/additional-qs.md)
+  * [CRM-Training](1.0-standard-operating-procedures-1/crm-training.md)
+  * [Dr.-Bergs-Products](1.0-standard-operating-procedures-1/dr.-bergs-products.md)
