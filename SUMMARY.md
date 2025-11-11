@@ -1372,3 +1372,8 @@
   * [Additional-Qs](1.0-standard-operating-procedures-1/additional-qs.md)
   * [CRM-Training](1.0-standard-operating-procedures-1/crm-training.md)
   * [Dr.-Bergs-Products](1.0-standard-operating-procedures-1/dr.-bergs-products.md)
+  * [Important!](1.0-standard-operating-procedures-1/important.md)
+  * [Orders-and-Shipping](1.0-standard-operating-procedures-1/orders-and-shipping.md)
+  * [Our-Services](1.0-standard-operating-procedures-1/our-services.md)
+  * [Product-Info](1.0-standard-operating-procedures-1/product-info.md)
+  * [Support](1.0-standard-operating-procedures-1/support.md)
